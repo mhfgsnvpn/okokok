@@ -1,4 +1,21 @@
 
+============================================= LOCAL =============================================
+=====================================================================================================
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita ID",tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Berita ID",Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://alkhalifi1.github.io/TV/big/metrotv.png" group-logo="https://alkhalifi1.github.io/TV/logo/group/berita.png" group-title="Berita ID",METRO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://alkhalifi1.github.io/TV/big/metrotv.png" group-logo="https://alkhalifi1.github.io/TV/logo/group/berita.png" group-title="Berita ID",METRO TV HD (BackUp)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+
+
 #EXTINF:-1 group-title="Pilem" tvg-logo="", CracklePlex
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pilem" tvg-logo="", Hi-Yah!
