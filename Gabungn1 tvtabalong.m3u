@@ -1646,3 +1646,139 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 
 
+```` DAERAH TVRI ````````
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/vjs2b14/cat-daerah.png",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH", TVRI Jakarta 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH", TVRI Ambon 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH", TVRI Bali 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Bangka Belitung 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Bengkulu 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Gorontalo 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Jawa Barat 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Jambi 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Jawa Tengah 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Jawa Timur 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Kalimantan Barat 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Kalimantan Selatan 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Kalimantan Tengah 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Kalimantan Timur 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Lampung 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Aceh 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI NTB 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI NTT 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Papua 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Riau 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sulawesi Barat 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sulawesi Selatan 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sulawesi Tengah 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sulawesi Tenggara 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sulawesi Utara 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sumatra Barat 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sumatra Selatan 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Sumatra Utara 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Yogyakarta 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="DAERAH",TVRI Papua Barat 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
